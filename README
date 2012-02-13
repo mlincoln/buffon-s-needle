@@ -1,1 +1,1 @@
-Hello World!
+This program takes in the inputs of distance between floorboard seams, length of needle and number of needles, then uses cTurtle to visualize the input number of needles being dropped randomly on the floor so to approximate pi using the formula found here: http://en.wikipedia.org/wiki/Buffon%27s_needle
